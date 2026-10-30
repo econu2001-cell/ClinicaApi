@@ -212,15 +212,11 @@ Repositorio del proyecto:
 
 https://github.com/econu2001-cell/ClinicaApi
 
-## 16. Integrantes y responsabilidades
+## 16. Integrantes 
 
-Completar esta sección con los nombres reales de los tres integrantes y las tareas que efectivamente realizó cada uno.
-
--------INTEGRANTES------
-
--Abad Gonza Mister
--Córdova Nuñez Eddi
--Ventura Mori Carlos
+- Abad Gonza Mister
+- Córdova Nuñez Eddi
+- Ventura Mori Carlos
 
 
 ## 17. Conclusión
